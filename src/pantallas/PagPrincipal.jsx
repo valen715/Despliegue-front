@@ -1,10 +1,10 @@
 import React from 'react';
 import '../styles/PagPrincipal.css';
-import calculador from '../assets/Calculador.png';
-import estadisticas from '../assets/Estadisticas.png';
-import consejos from '../assets/Consejos.png';
-import ayuda from '../assets/Ayuda.png';
-import registro from '../assets/registro.png';
+import calculador from '../img/Calculador.png';
+import estadisticas from '../img/Estadisticas.png';
+import consejos from '../img/Consejos.png';
+import ayuda from '../img/Ayuda.png';
+import registro from '../img/registro.png';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { obtenerUsuario } from '../utils/connection_utils';

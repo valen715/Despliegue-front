@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import logoAfiline from '../assets/LogoAfiline.png';
+import logoAfiline from '../img/LogoAfiline.png';
 import '../utils/connection_utils';
 
 export const Ayuda = () => {

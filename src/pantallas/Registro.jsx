@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/Registro.css';
 import Navbar from '../components/Navbar';
-import Registroimg from '../assets/registro.png';
+import Registroimg from '../img/registro.png';
 import { Link, useHistory } from 'react-router-dom';
 import { useState } from 'react';
 import { Registrar } from '../utils/connection_utils';

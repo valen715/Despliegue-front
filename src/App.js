@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import logoAfiline from './assets/LogoAfiline.png';
+import logoAfiline from './img/LogoAfiline.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
 import { Link } from 'react-router-dom';

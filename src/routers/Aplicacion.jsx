@@ -1,16 +1,16 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Inicio from '../screens/Inicio';
-import Registro from '../screens/Registro';
-import Bienvenido from '../screens/Bienvenido';
+import Inicio from '../pantallas/Inicio';
+import Registro from '../pantallas/Registro';
+import Bienvenido from '../pantallas/Bienvenido';
 import App from '../App.js';
-import Calculador from '../screens/Calculador';
-import CalculadorEgresos from '../screens/CalculadorEgresos';
-import CalculadorIngresos from '../screens/CalculadorIngresos';
-import Ayuda from '../screens/Ayuda';
-import Consejos from '../screens/Consejos';
-import PagPrincipal from '../screens/PagPrincipal';
-import Estadisticas from '../screens/Estadisticas';
+import Calculador from '../pantallas/Calculador';
+import CalculadorEgresos from '../pantallas/CalculadorEgresos';
+import CalculadorIngresos from '../pantallas/CalculadorIngresos';
+import Ayuda from '../pantallas/Ayuda';
+import Consejos from '../pantallas/Consejos';
+import PagPrincipal from '../pantallas/PagPrincipal';
+import Estadisticas from '../pantallas/Estadisticas';
 import PrivateRoute from '../components/PrivateRoute';
 
 function Aplicacion() {

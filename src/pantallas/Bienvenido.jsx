@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/Bienvenido.css';
-import logoAfiline from '../assets/LogoAfiline.png';
+import logoAfiline from '../img/LogoAfiline.png';
 
 export const Bienvenido = () => {
 	return (
